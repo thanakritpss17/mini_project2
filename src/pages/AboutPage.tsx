@@ -16,7 +16,7 @@ export const AboutPage: React.FC = () => {
       name: 'Thanakrit Prasertsorn',
       studentId: '1660705219',
       role: 'Developer & UI Design',
-      avatar: 'src/img/tha.png',
+      avatar: '/img/tha.png',
       email: 'thanakrit.pras@bumail.net',
     },
     {
@@ -24,7 +24,8 @@ export const AboutPage: React.FC = () => {
       name: 'Vilaikeo Manyphet',
       studentId: '1630708244',
       role: 'UX/UI & Presentation',
-      avatar: 'src/img/vi.png',
+
+      avatar: '/img/vi.png',
       email: 'vilaikeo.many@bumail.net',
     },
     {
@@ -32,7 +33,7 @@ export const AboutPage: React.FC = () => {
       name: 'Jiranuwat Kamkrathok',
       studentId: '1660705029',
       role: 'Tester & API',
-      avatar: 'src/img/ji.png',
+      avatar: '/img/ji.png',
       email: 'jiranuwat.kamk@bumail.net',
     },
   ];
